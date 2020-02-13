@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "htmlcssassign", "htmlcssassign.csproj", "{8ABF898A-81B5-4E2F-A053-DE018E66486B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ABF898A-81B5-4E2F-A053-DE018E66486B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ABF898A-81B5-4E2F-A053-DE018E66486B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ABF898A-81B5-4E2F-A053-DE018E66486B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ABF898A-81B5-4E2F-A053-DE018E66486B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {160F4109-AB48-4E9C-8E85-16F64C9E7C3F}
+	EndGlobalSection
+EndGlobal

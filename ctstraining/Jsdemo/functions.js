@@ -1,0 +1,20 @@
+﻿function getalert() {
+    var m1 = isNaN("2");
+    var m2 = isNaN("ram");
+    var m3 = isNaN(232);
+    var d = eval("35*4");
+    document.getElementById("ref").innerHTML += m1 + "<br>";
+    document.getElementById("ref").innerHTML += m2 + "<br>";
+    document.getElementById("ref").innerHTML += m3 + "<br>";
+    document.getElementById("ref").innerHTML += d + "<br>";
+    var m4 = parseInt("10", 2);
+    var m5 = parseInt("11", 8);
+    var m6 = parseInt("15", 10);
+    var m7 = parseFloat("123.890");
+    var m8 = parseFloat("123ssdffg");
+    document.getElementById("ref").innerHTML += m4 + "<br>";
+    document.getElementById("ref").innerHTML += m5 + "<br>";
+    document.getElementById("ref").innerHTML += m6 + "<br>";
+    document.getElementById("ref").innerHTML += m7 + "<br>";
+    document.getElementById("ref").innerHTML += m8 + "<br>";
+} getalert();

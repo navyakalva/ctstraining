@@ -1,0 +1,6 @@
+E:\Navya\2-1-2020\Collection\bin\Debug\Collection.exe.config
+E:\Navya\2-1-2020\Collection\bin\Debug\Collection.exe
+E:\Navya\2-1-2020\Collection\bin\Debug\Collection.pdb
+E:\Navya\2-1-2020\Collection\obj\Debug\Collection.csprojAssemblyReference.cache
+E:\Navya\2-1-2020\Collection\obj\Debug\Collection.exe
+E:\Navya\2-1-2020\Collection\obj\Debug\Collection.pdb

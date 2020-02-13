@@ -1,0 +1,6 @@
+E:\Navya\2-1-2020\Patterndemo\bin\Debug\Patterndemo.exe.config
+E:\Navya\2-1-2020\Patterndemo\bin\Debug\Patterndemo.exe
+E:\Navya\2-1-2020\Patterndemo\bin\Debug\Patterndemo.pdb
+E:\Navya\2-1-2020\Patterndemo\obj\Debug\Patterndemo.csprojAssemblyReference.cache
+E:\Navya\2-1-2020\Patterndemo\obj\Debug\Patterndemo.exe
+E:\Navya\2-1-2020\Patterndemo\obj\Debug\Patterndemo.pdb

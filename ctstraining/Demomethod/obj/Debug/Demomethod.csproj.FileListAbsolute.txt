@@ -1,0 +1,6 @@
+E:\Navya\2-1-2020\Demomethod\obj\Debug\Demomethod.csprojAssemblyReference.cache
+E:\Navya\2-1-2020\Demomethod\bin\Debug\Demomethod.exe.config
+E:\Navya\2-1-2020\Demomethod\bin\Debug\Demomethod.exe
+E:\Navya\2-1-2020\Demomethod\bin\Debug\Demomethod.pdb
+E:\Navya\2-1-2020\Demomethod\obj\Debug\Demomethod.exe
+E:\Navya\2-1-2020\Demomethod\obj\Debug\Demomethod.pdb

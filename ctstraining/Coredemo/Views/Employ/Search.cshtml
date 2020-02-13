@@ -1,0 +1,78 @@
+﻿@model Employ
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Search</title>
+</head>
+<body>
+    <h1>Employ</h1>
+    <table border="1">
+        <tr>
+
+            <td>      ID              </td>
+            <td>      Name            </td>
+            <td>      Email           </td>
+            <td>      Dept            </td>
+        </tr>
+        <tr>
+            <td>@Model.Id</td>
+            <td>@Model.Name</td>
+            <td>@Model.Email</td>
+            <td>@Model.dept</td>
+        </tr>
+
+  </table>
+
+
+
+        @*@{
+                var empl = ViewData["Employ"] as Coredemo.Models.Employ;//passing obj and accesiing view data
+            }
+            <h1>Employ</h1>
+            <table border="1">
+                <tr>
+
+                    <td>      ID              </td>
+                    <td>      Name            </td>
+                    <td>      Email           </td>
+                    <td>      Dept            </td>
+                </tr>
+                <tr>
+                    <td>@empl.Id</td>
+                    <td>@empl.Name</td>
+                    <td>@empl.Email</td>
+                    <td>@empl.dept</td>
+
+                    <td>      @ViewBag.id            </td>
+                <td>      @ViewBag.name            </td>
+                <td>      @ViewBag.email            </td>
+                <td>      @ViewBag.dept            </td>
+
+                    @<td>      @ViewData["id"]            </td>
+                <td>      @ViewData["name"]            </td>
+                <td>      @ViewData["email"]            </td>
+                <td>      @ViewData["dept"]            </td>
+                </tr>
+                <tr>
+                    <td>
+                        @ViewBag.Employ.Id
+                    </td>
+                    <td>
+                        @ViewBag.Employ.Name
+                    </td>
+                    <td>
+                        @ViewBag.Employ.Email
+                    </td>
+                    <td>
+                        @ViewBag.Employ.dept
+                    </td>
+                </tr>
+            </table>*@
+</body>
+</html>

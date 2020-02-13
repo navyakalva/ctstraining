@@ -1,0 +1,6 @@
+E:\Navya\2-1-2020\Dictionary\bin\Debug\Dictionary.exe.config
+E:\Navya\2-1-2020\Dictionary\bin\Debug\Dictionary.exe
+E:\Navya\2-1-2020\Dictionary\bin\Debug\Dictionary.pdb
+E:\Navya\2-1-2020\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache
+E:\Navya\2-1-2020\Dictionary\obj\Debug\Dictionary.exe
+E:\Navya\2-1-2020\Dictionary\obj\Debug\Dictionary.pdb

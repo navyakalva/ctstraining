@@ -1,0 +1,52 @@
+﻿@model HandsOnModelValidations.Models.Employee
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+@using (Html.BeginForm())
+{
+<table class="table table-bordered">
+    <tr>
+        <td>@Html.DisplayNameFor(m => m.Id)</td>
+        <td>@Html.EditorFor(m => m.Id)</td>
+        <td>@Html.ValidationMessageFor(m => m.Id)</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(m => m.Name)</td>
+        <td>@Html.EditorFor(m => m.Name)</td>
+        <td>@Html.ValidationMessageFor(m => m.Name)</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(m => m.Email)</td>
+        <td>@Html.EditorFor(m => m.Email)</td>
+        <td>@Html.ValidationMessageFor(m => m.Email)</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(m => m.Mobile)</td>
+        <td>@Html.EditorFor(m => m.Mobile)</td>
+        <td>@Html.ValidationMessageFor(m => m.Mobile)</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(m => m.Uname)</td>
+        <td>@Html.EditorFor(m => m.Uname)</td>
+        <td>@Html.ValidationMessageFor(m => m.Uname)</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(m => m.Password)</td>
+        <td>@Html.EditorFor(m => m.Password)</td>
+        <td>@Html.ValidationMessageFor(m => m.Uname)</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(m => m.CPwd)</td>
+        <td>@Html.EditorFor(m => m.CPwd)</td>
+        <td>@Html.ValidationMessageFor(m => m.CPwd)</td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <input type="submit" value="Register" class=" btn btn-primary" />
+        </td>
+    </tr>
+</table>
+}

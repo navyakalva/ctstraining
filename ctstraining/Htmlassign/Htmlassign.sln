@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Htmlassign", "Htmlassign.csproj", "{E8AC3278-0090-4B37-AA09-4F6E441BD618}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8AC3278-0090-4B37-AA09-4F6E441BD618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8AC3278-0090-4B37-AA09-4F6E441BD618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8AC3278-0090-4B37-AA09-4F6E441BD618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8AC3278-0090-4B37-AA09-4F6E441BD618}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFE2F713-91B9-460E-9315-C01265029283}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+E:\Navya\2-1-2020\Demooops\bin\Debug\Demooops.exe.config
+E:\Navya\2-1-2020\Demooops\bin\Debug\Demooops.exe
+E:\Navya\2-1-2020\Demooops\bin\Debug\Demooops.pdb
+E:\Navya\2-1-2020\Demooops\obj\Debug\Demooops.csprojAssemblyReference.cache
+E:\Navya\2-1-2020\Demooops\obj\Debug\Demooops.exe
+E:\Navya\2-1-2020\Demooops\obj\Debug\Demooops.pdb

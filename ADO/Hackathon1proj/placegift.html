@@ -1,0 +1,253 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script src="JavaScript.js"></script>
+    <script type="text/javascript">
+          function f11(){
+              alert("test");
+                document.getElementById("amount").focus();
+        }
+        function f(){
+                let t11=document.getElementById("ph1").value;
+                if(t11!=null)
+                document.getElementById("ph2").focus();
+        }
+         function f1(){
+                let t11=document.getElementById("ph2").value;
+                if(t11!=null)
+                document.getElementById("ph3").focus();
+        }
+         function f2(){
+                let t11=document.getElementById("ph3").value;
+                if(t11!=null)
+                document.getElementById("ph4").focus();
+        }
+         function f3(){
+                let t11=document.getElementById("ph4").value;
+                if(t11!=null)
+                document.getElementById("ph5").focus();
+        }
+         function f4(){
+                let t11=document.getElementById("ph5").value;
+                if(t11!=null)
+                document.getElementById("ph6").focus();
+        }
+         function f5(){
+                let t11=document.getElementById("ph6").value;
+                if(t11!=null)
+                document.getElementById("ph7").focus();
+        }
+         function f6(){
+                let t11=document.getElementById("ph7").value;
+                if(t11!=null)
+                document.getElementById("ph8").focus();
+        }
+        function f7(){
+                let t11=document.getElementById("ph8").value;
+                if(t11!=null)
+                document.getElementById("ph9").focus();
+            }
+
+        function f8(){
+                let t11=document.getElementById("ph9").value;
+                if(t11!=null)
+                document.getElementById("ph10").focus();
+            }
+
+        function f9(){
+                let t11=document.getElementById("ph10").value;
+                if(t11!=null)
+                document.getElementById("email").focus();
+            }
+
+
+
+
+    </script>
+    <style type="text/css">
+        header, nav, main, aside, section, footer {
+            margin: 20px;
+        }
+
+        img {
+            border-radius: 50%;
+        }
+
+        header {
+            border-radius: 10px;
+            width: auto;
+            background-color: skyblue;
+        }
+
+            header h1 {
+                color: white;
+                padding-left: 20px;
+                padding-top: 10px;
+                background-color: skyblue;
+            }
+
+        nav {
+            border-radius: 5px;
+            width: auto;
+            height: 20px;
+            background-color: lightcoral;
+            text-align: center;
+            padding-top: 5px;
+        }
+
+        a {
+            color: white;
+            /* text-decoration:none; */
+            padding-left: 20px;
+        }
+
+        main {
+            width: 95%;
+            height: 450px;
+        }
+
+        aside {
+            border-radius: 5px;
+            width: 23%;
+            height: inherit;
+            background-color: cyan;
+            float: left;
+            padding-left: 10px;
+            font-size: 20px;
+        }
+
+        section {
+            border-radius: 5px;
+            width: 65%;
+            height: unset;
+            background-color: white;
+            float: left;
+            padding: 5px;
+        }
+
+        /*footer {
+            background-color: cyan;
+            text-align: center;
+            color: white;
+             glyph-orientation-vertical:inherit
+        }*/
+
+        p {
+            color: blue;
+        }
+
+        li {
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <a href="landingpage.html"><img src="images/Capture.PNG" alt="no image" height="200" width="200" /></a>
+        <h1>Gift Card</h1>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="placegift.html">Place GiftCard Order</a>
+        <a href="vieworder.html">View GiftCard Order</a>
+        <a href="contactus.html">Contact Us</a>
+    </nav>
+    <main>
+        <aside>
+
+
+
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="placegift.html">Place GiftCard Order</a></li>
+                <li><a href="vieworder.html">View GiftCard Order</a></li>
+                <li><a href="contactus.html">Contact Us</a></li>
+            </ul>
+
+
+        </aside>
+        <section>
+            <h1 style="font-style:italic"> Place Order</h1>
+            <form action="vieworder.html" onSubmit="return validate()" onload="f11()">
+                <table>
+                    <tr>
+
+                        <td>GIFT CARD AMOUNT:</td>
+                        <td> <input type="number" id="amount" /><br>Amount </td>
+                        <td> <input type="number" id="pai" /><br>Paisa</td>
+
+                    </tr>
+
+                    <tr>
+                        <td> RECEIPENT NAME  :</td>
+                        <td>FirstName:<input type="text" id="fname" /></td>
+                        <td>LastName :<input type="text" id="lname" /></td>
+                    </tr>
+                </table>
+
+                <fieldset style="width:400px">
+
+                    <legend>SHIPPING ADDRESS</legend>
+
+
+                    Street Address:<input id="Text1" type="text" size="5" />&nbsp;<br /><br />
+
+                    City          :<input id="city" type="text" size="4" />&nbsp;<br /><br />
+
+                    State         :<input id="Text3" type="text" size="6" />&nbsp;<br /><br />
+
+                    Country       :<select id="ctry" name="Countries">
+                        <option value="India">INDIA</option>
+                        <option value="Australia">AUSTRALIA</option>
+                        <option value="US">US</option>
+                        <option value="UK">UK</option>
+                    </select>&nbsp;<br /><br />
+
+                    Pincode       :<input type="number" id="pin" minlength="6" maxlength="6" />
+
+
+                </fieldset><br />
+
+
+                BUYER'S NAME : First name :<input type="text" id="buyername" /> &nbsp; last name:<input id="blast" type="text" /><br /><br />
+                PHONE NUMBER : <input type="text" id="ph" value="+91" readonly="readonly" size="3" />
+                <input id="ph1" onkeypress="f()" type="text" maxlength="1" size="1" />
+                <input id="ph2" onkeypress="f1()" type="text" maxlength="1" size="1" />
+                <input id="ph3" onkeypress="f2()" type="text" maxlength="1" size="1" />
+                <input id="ph4" onkeypress="f3()" type="text" maxlength="1" size="1" />
+                <input id="ph5" onkeypress="f4()" type="text" maxlength="1" size="1" />
+                <input id="ph6" onkeypress="f5()" type="text" maxlength="1" size="1" />
+                <input id="ph7" onkeypress="f6()" type="text" maxlength="1" size="1" />
+                <input id="ph8" onkeypress="f7()" type="text" maxlength="1" size="1" />
+                <input id="ph9" onkeypress="f8()" type="text" maxlength="1" size="1" />
+                <input id="ph10" onkeypress="f9()" type="text" maxlength="1" size="1" /><br /><br />
+                ENTER EMAIL :<input name="email" type="email" /><br /><br />
+                <button>ADD</button>
+
+
+            </form>
+
+
+
+
+
+
+
+
+
+        </section>
+
+        <!--<aside>
+            <h1>Repulic of India</h1>
+            <figure>
+                <img src="Images/Emblem.png">
+                <figcaption>Emblem of India</figcaption>
+            </figure>
+        </aside>-->
+    </main>
+    <!--<footer>
+        &copy; All Rights Reserved 2017
+    </footer>-->
+</body>
+</html>

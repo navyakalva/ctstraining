@@ -1,0 +1,6 @@
+E:\Navya\2-1-2020\Studentoops\bin\Debug\Studentoops.exe.config
+E:\Navya\2-1-2020\Studentoops\bin\Debug\Studentoops.exe
+E:\Navya\2-1-2020\Studentoops\bin\Debug\Studentoops.pdb
+E:\Navya\2-1-2020\Studentoops\obj\Debug\Studentoops.csprojAssemblyReference.cache
+E:\Navya\2-1-2020\Studentoops\obj\Debug\Studentoops.exe
+E:\Navya\2-1-2020\Studentoops\obj\Debug\Studentoops.pdb

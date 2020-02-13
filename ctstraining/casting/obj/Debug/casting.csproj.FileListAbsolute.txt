@@ -1,0 +1,6 @@
+E:\Hamsitha\2-1-2020\casting\bin\Debug\casting.exe.config
+E:\Hamsitha\2-1-2020\casting\bin\Debug\casting.exe
+E:\Hamsitha\2-1-2020\casting\bin\Debug\casting.pdb
+E:\Hamsitha\2-1-2020\casting\obj\Debug\casting.csprojAssemblyReference.cache
+E:\Hamsitha\2-1-2020\casting\obj\Debug\casting.exe
+E:\Hamsitha\2-1-2020\casting\obj\Debug\casting.pdb

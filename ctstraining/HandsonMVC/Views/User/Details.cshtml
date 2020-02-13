@@ -1,0 +1,10 @@
+﻿@model HandsonMVC.Models.User
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<h1>Welcome @Html.DisplayFor(m=>m.Name)</h1>
+@Html.ActionLink("logout","login","User")

@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+   
+</head>
+<body>
+    <h1>FE DEMO</h1>
+    <!--<script src="JavaScript1.js"></script>
+    <script src="JavaScript2.js"></script>-->
+    <script>
+        function OuterFunction() {
+            var outervar = 100;
+            function InnerFunction() {
+                outervar++;
+                alert(outervar);
+            }
+            return InnerFunction;
+        }
+        var innerfunc = OuterFunction();
+        innerfunc();
+        innerfunc();
+        innerfunc();
+       
+    </script>
+</body>
+</html>

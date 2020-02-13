@@ -1,0 +1,6 @@
+E:\Navya\2-1-2020\Deledatedemo\bin\Debug\Deledatedemo.exe.config
+E:\Navya\2-1-2020\Deledatedemo\bin\Debug\Deledatedemo.exe
+E:\Navya\2-1-2020\Deledatedemo\bin\Debug\Deledatedemo.pdb
+E:\Navya\2-1-2020\Deledatedemo\obj\Debug\Deledatedemo.exe
+E:\Navya\2-1-2020\Deledatedemo\obj\Debug\Deledatedemo.pdb
+E:\Navya\2-1-2020\Deledatedemo\obj\Debug\Deledatedemo.csprojAssemblyReference.cache

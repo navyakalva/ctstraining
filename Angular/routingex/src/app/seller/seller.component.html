@@ -1,0 +1,9 @@
+<p>seller works!</p>
+<h1 class="text-info">welcome {{uname}}</h1>
+<div class="row">
+    <div><a [routerLink]="['/seller/additem']">Additem</a> </div>
+    <div><a [routerLink]="['/seller/viewitem']">Viewitem</a> </div>
+   
+</div>
+<button (click)="logout()">Logout</button>
+<router-outlet> </router-outlet>

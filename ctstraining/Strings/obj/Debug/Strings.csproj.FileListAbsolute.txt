@@ -1,0 +1,6 @@
+E:\Navya\2-1-2020\Strings\bin\Debug\Strings.exe.config
+E:\Navya\2-1-2020\Strings\bin\Debug\Strings.exe
+E:\Navya\2-1-2020\Strings\bin\Debug\Strings.pdb
+E:\Navya\2-1-2020\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+E:\Navya\2-1-2020\Strings\obj\Debug\Strings.exe
+E:\Navya\2-1-2020\Strings\obj\Debug\Strings.pdb

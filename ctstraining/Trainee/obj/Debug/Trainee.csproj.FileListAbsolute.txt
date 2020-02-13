@@ -1,0 +1,6 @@
+E:\Navya\2-1-2020\Trainee\bin\Debug\Trainee.exe.config
+E:\Navya\2-1-2020\Trainee\bin\Debug\Trainee.exe
+E:\Navya\2-1-2020\Trainee\bin\Debug\Trainee.pdb
+E:\Navya\2-1-2020\Trainee\obj\Debug\Trainee.csprojAssemblyReference.cache
+E:\Navya\2-1-2020\Trainee\obj\Debug\Trainee.exe
+E:\Navya\2-1-2020\Trainee\obj\Debug\Trainee.pdb

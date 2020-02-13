@@ -1,0 +1,6 @@
+E:\Hamsitha\2-1-2020\app1\bin\Debug\app1.exe.config
+E:\Hamsitha\2-1-2020\app1\bin\Debug\app1.exe
+E:\Hamsitha\2-1-2020\app1\bin\Debug\app1.pdb
+E:\Hamsitha\2-1-2020\app1\obj\Debug\app1.csprojAssemblyReference.cache
+E:\Hamsitha\2-1-2020\app1\obj\Debug\app1.exe
+E:\Hamsitha\2-1-2020\app1\obj\Debug\app1.pdb

@@ -1,0 +1,6 @@
+E:\Navya\2-1-2020\Demoindexer\bin\Debug\Demoindexer.exe.config
+E:\Navya\2-1-2020\Demoindexer\bin\Debug\Demoindexer.exe
+E:\Navya\2-1-2020\Demoindexer\bin\Debug\Demoindexer.pdb
+E:\Navya\2-1-2020\Demoindexer\obj\Debug\Demoindexer.csprojAssemblyReference.cache
+E:\Navya\2-1-2020\Demoindexer\obj\Debug\Demoindexer.exe
+E:\Navya\2-1-2020\Demoindexer\obj\Debug\Demoindexer.pdb

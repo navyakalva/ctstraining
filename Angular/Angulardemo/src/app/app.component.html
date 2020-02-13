@@ -1,0 +1,18 @@
+<h1>My Angular Demo</h1>
+<h2>Welcome</h2>
+<h3>{{'Title is'+title}}</h3>
+<h3>{{10+num}}</h3>
+<h3>{{title?title:'No Title'}}</h3>
+<!--/*interploation*/-->
+<img src="{{imagepath}}">
+<!--/*property binding */-->
+<img [src]="imagepath">
+<h3>{{getname()}}</h3>
+<button class="italicclass"[disabled]='isdisabled'>Clickme</button>
+<!--/*canonical*/-->
+<button [class]="mystyle" bind-disabled='isdisabled'>Bindme</button>
+<button [class.italicclass]="applystyle">Checkstyle</button>
+<my-employee></my-employee>
+
+
+

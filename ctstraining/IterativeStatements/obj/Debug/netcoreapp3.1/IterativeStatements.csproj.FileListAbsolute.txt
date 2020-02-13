@@ -1,0 +1,11 @@
+E:\Navya\2-1-2020\IterativeStatements\obj\Debug\netcoreapp3.1\IterativeStatements.csprojAssemblyReference.cache
+E:\Navya\2-1-2020\IterativeStatements\obj\Debug\netcoreapp3.1\IterativeStatements.AssemblyInfoInputs.cache
+E:\Navya\2-1-2020\IterativeStatements\obj\Debug\netcoreapp3.1\IterativeStatements.AssemblyInfo.cs
+E:\Navya\2-1-2020\IterativeStatements\bin\Debug\netcoreapp3.1\IterativeStatements.exe
+E:\Navya\2-1-2020\IterativeStatements\bin\Debug\netcoreapp3.1\IterativeStatements.deps.json
+E:\Navya\2-1-2020\IterativeStatements\bin\Debug\netcoreapp3.1\IterativeStatements.runtimeconfig.json
+E:\Navya\2-1-2020\IterativeStatements\bin\Debug\netcoreapp3.1\IterativeStatements.runtimeconfig.dev.json
+E:\Navya\2-1-2020\IterativeStatements\bin\Debug\netcoreapp3.1\IterativeStatements.dll
+E:\Navya\2-1-2020\IterativeStatements\bin\Debug\netcoreapp3.1\IterativeStatements.pdb
+E:\Navya\2-1-2020\IterativeStatements\obj\Debug\netcoreapp3.1\IterativeStatements.dll
+E:\Navya\2-1-2020\IterativeStatements\obj\Debug\netcoreapp3.1\IterativeStatements.pdb

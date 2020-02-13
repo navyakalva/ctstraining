@@ -1,0 +1,28 @@
+﻿@model HandsOnModelValidations.Models.Login
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Login</h1>
+@using(Html.BeginForm())
+{
+<table class="table table-bordered">
+    <tr>
+        <td>@Html.DisplayNameFor(m => m.Uname)</td> @*display name of property: Uname*@
+        <td>@Html.EditorFor(m => m.Uname)</td>      @*diplay the control*@
+        <td>@Html.ValidationMessageFor(m => m.Uname)</td> @*to diplay error msg*@
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(m => m.Password)</td>
+        <td>@Html.EditorFor(m => m.Password)</td>
+        <td>@Html.ValidationMessageFor(m => m.Password)</td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <input type="submit" value="Login"/>
+        </td>
+    </tr>
+</table>
+}
+

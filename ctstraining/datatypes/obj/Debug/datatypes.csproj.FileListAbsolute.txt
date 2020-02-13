@@ -1,0 +1,6 @@
+E:\Hamsitha\2-1-2020\datatypes\bin\Debug\datatypes.exe.config
+E:\Hamsitha\2-1-2020\datatypes\bin\Debug\datatypes.exe
+E:\Hamsitha\2-1-2020\datatypes\bin\Debug\datatypes.pdb
+E:\Hamsitha\2-1-2020\datatypes\obj\Debug\datatypes.csprojAssemblyReference.cache
+E:\Hamsitha\2-1-2020\datatypes\obj\Debug\datatypes.exe
+E:\Hamsitha\2-1-2020\datatypes\obj\Debug\datatypes.pdb

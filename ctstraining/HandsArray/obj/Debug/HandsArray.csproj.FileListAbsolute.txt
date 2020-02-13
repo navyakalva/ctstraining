@@ -1,0 +1,6 @@
+E:\Navya\2-1-2020\HandsArray\bin\Debug\HandsArray.exe.config
+E:\Navya\2-1-2020\HandsArray\bin\Debug\HandsArray.exe
+E:\Navya\2-1-2020\HandsArray\bin\Debug\HandsArray.pdb
+E:\Navya\2-1-2020\HandsArray\obj\Debug\HandsArray.csprojAssemblyReference.cache
+E:\Navya\2-1-2020\HandsArray\obj\Debug\HandsArray.exe
+E:\Navya\2-1-2020\HandsArray\obj\Debug\HandsArray.pdb

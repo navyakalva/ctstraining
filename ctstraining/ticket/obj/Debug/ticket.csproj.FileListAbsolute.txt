@@ -1,0 +1,5 @@
+E:\Navya\2-1-2020\ticket\bin\Debug\ticket.exe.config
+E:\Navya\2-1-2020\ticket\bin\Debug\ticket.exe
+E:\Navya\2-1-2020\ticket\bin\Debug\ticket.pdb
+E:\Navya\2-1-2020\ticket\obj\Debug\ticket.exe
+E:\Navya\2-1-2020\ticket\obj\Debug\ticket.pdb

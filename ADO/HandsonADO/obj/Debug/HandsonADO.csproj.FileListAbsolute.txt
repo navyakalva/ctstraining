@@ -1,0 +1,6 @@
+E:\Navya\2-1-2020\HandsonADO\bin\Debug\HandsonADO.exe.config
+E:\Navya\2-1-2020\HandsonADO\bin\Debug\HandsonADO.exe
+E:\Navya\2-1-2020\HandsonADO\bin\Debug\HandsonADO.pdb
+E:\Navya\2-1-2020\HandsonADO\obj\Debug\HandsonADO.csprojAssemblyReference.cache
+E:\Navya\2-1-2020\HandsonADO\obj\Debug\HandsonADO.exe
+E:\Navya\2-1-2020\HandsonADO\obj\Debug\HandsonADO.pdb

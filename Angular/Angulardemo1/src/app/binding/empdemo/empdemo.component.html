@@ -1,0 +1,42 @@
+<p>empdemo works!</p>
+<div>
+    <table>
+        <tr>
+            <td>ID</td>
+            <td><input type="text" [(ngModel)]='item.eid'></td>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td><input type="text" [(ngModel)]='item.ename'></td>
+        </tr>
+        <tr>
+            <td>Doj</td>
+            <td><input type="date" [(ngModel)]='item.doj'></td>
+        </tr>
+        <tr>
+            <td>Designation</td>
+            <select [(ngModel)]='item.designation'>
+                <option>Programmer</option>
+                <option>Tester</option>
+            </select>
+        </tr>
+        <tr>
+            <td>Sal</td>
+            <td><input type="text" [(ngModel)]='item.sal'></td>
+        </tr>
+        <tr>
+            <td colspan='2'>
+                <button (click)="Add()">Register</button>
+            </td>
+        </tr>
+    </table>
+</div>
+<div>
+    <pre>
+        ID:{{item.eid}}
+        Name:{{item.ename}}
+        Doj:{{item.doj}}
+        Designation:{{item.designation}}
+        Sal:{{item.sal}}
+    </pre>
+</div>

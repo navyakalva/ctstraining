@@ -1,0 +1,31 @@
+<p align="center">Task Manager!</p>
+<div id="AddTask">
+    <table align="center"> 
+        <tr>
+            <td>Task Name</td>
+            <td><input type="text" [(ngModel)]="name"></td>
+        </tr>
+        <tr>
+            <td>Priority</td>
+            <td><input type="range" min="0" max="20" class="slider" [(ngModel)]="priority"></td>
+        </tr>
+        <tr>
+            <td>Start Date</td>
+            <td><input type="date" [(ngModel)]="startdate"></td>
+        </tr>
+        <tr>
+            <td>End Date</td>
+            <td><input type="date" [(ngModel)]="enddate"></td>
+        </tr>
+        <tr>
+            <td>
+                <button (click)="Add()">Add Task</button>
+            </td>
+            <td>
+                <button (click)="reset()">Reset</button>
+            </td>
+            
+        </tr>
+    </table>
+</div>
+<router-outlet></router-outlet>

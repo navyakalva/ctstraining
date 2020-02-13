@@ -1,0 +1,6 @@
+E:\Navya\2-1-2020\Filesdemo\bin\Debug\Filesdemo.exe.config
+E:\Navya\2-1-2020\Filesdemo\bin\Debug\Filesdemo.exe
+E:\Navya\2-1-2020\Filesdemo\bin\Debug\Filesdemo.pdb
+E:\Navya\2-1-2020\Filesdemo\obj\Debug\Filesdemo.csprojAssemblyReference.cache
+E:\Navya\2-1-2020\Filesdemo\obj\Debug\Filesdemo.exe
+E:\Navya\2-1-2020\Filesdemo\obj\Debug\Filesdemo.pdb

@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <form name="myForm" action="/action_page.php" onsubmit="return validateForm()" method="post">>
+        <h1>Personal Details</h1>
+        Name:<input type="text" name="Name" required />
+        <br />
+        <br />
+
+        Gender:
+        <input type="radio" name="gender" value="male" />Male
+        <input type="radio" name="gender" value="female" />Female<br />
+        <br />
+        Hometown:
+        <select name="Hometown">
+            <option value="hyd">hyd</option>
+            <option value="chennai">chennai</option>
+            <option value="bnglr">bnglr</option>
+            <option value="tnl">tnl</option>
+        </select>
+        <br /><br />
+        Address:
+        <textarea name="message" rows="5" cols="10"></textarea>
+        <br />
+        <br />
+
+        Skills:
+        <input type="checkbox" name="lang1" />HTML
+        <input type="checkbox" name="lang2" />CSS
+        <input type="checkbox" name="lang3" />JAVA
+        <br /><br />
+        Pasword:
+        <input type="password" name="Password" />
+        <br /><br />
+        <input type="submit" name="submit" />
+    </>
+
+    <script>
+    function validateForm() {
+    var x = document.forms["myForm"]["Name"].value;
+    if (x == "") {
+        alert("Name must be filled out");
+        if (x == "[0-9]")
+            alert("Name cannot have numbers");
+    return false;
+    }
+    }
+    </script>
+</body>
+</html>

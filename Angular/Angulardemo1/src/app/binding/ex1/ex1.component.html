@@ -1,0 +1,12 @@
+
+<h1>Calculator</h1>
+<div>
+    Number 1:<input type="number" #t1><br>
+     Number 2:<input type="number" #t2><br><br>
+    <button (click)='add(t1.value,t2.value)'>Add</button>&nbsp;
+    <button (click)='sub(t1.value,t2.value)'>Sub</button>
+    <pre>
+      Addition {{num1}}<br>
+     Subtraction {{num2}}
+    </pre>
+</div>

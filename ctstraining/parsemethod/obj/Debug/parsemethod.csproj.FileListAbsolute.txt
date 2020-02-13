@@ -1,0 +1,6 @@
+E:\Hamsitha\2-1-2020\parsemethod\bin\Debug\parsemethod.exe.config
+E:\Hamsitha\2-1-2020\parsemethod\bin\Debug\parsemethod.exe
+E:\Hamsitha\2-1-2020\parsemethod\bin\Debug\parsemethod.pdb
+E:\Hamsitha\2-1-2020\parsemethod\obj\Debug\parsemethod.csprojAssemblyReference.cache
+E:\Hamsitha\2-1-2020\parsemethod\obj\Debug\parsemethod.exe
+E:\Hamsitha\2-1-2020\parsemethod\obj\Debug\parsemethod.pdb

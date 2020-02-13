@@ -1,0 +1,5 @@
+E:\Hamsitha\2-1-2020\arthematis\bin\Debug\arthematis.exe.config
+E:\Hamsitha\2-1-2020\arthematis\bin\Debug\arthematis.exe
+E:\Hamsitha\2-1-2020\arthematis\bin\Debug\arthematis.pdb
+E:\Hamsitha\2-1-2020\arthematis\obj\Debug\arthematis.exe
+E:\Hamsitha\2-1-2020\arthematis\obj\Debug\arthematis.pdb

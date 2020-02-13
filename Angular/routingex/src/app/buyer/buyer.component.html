@@ -1,0 +1,9 @@
+<p>buyer works!</p>
+<h1 class="text-info">welcome {{uname}}</h1>
+<div class="row">
+    <div><a [routerLink]="['/buyer/buyitem']">Buyitem</a> </div>
+    <div><a [routerLink]="['/buyer/viewcart']">Viewcart</a> </div>
+    <div><a [routerLink]="['/buyer/payment']">Payment</a> </div>
+</div>
+<button (click)="logout()">Logout</button>
+<router-outlet> </router-outlet>

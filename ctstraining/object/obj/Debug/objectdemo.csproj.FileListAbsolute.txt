@@ -1,0 +1,5 @@
+E:\Hamsitha\2-1-2020\object\bin\Debug\@object.exe.config
+E:\Hamsitha\2-1-2020\object\bin\Debug\@object.exe
+E:\Hamsitha\2-1-2020\object\bin\Debug\@object.pdb
+E:\Hamsitha\2-1-2020\object\obj\Debug\@object.exe
+E:\Hamsitha\2-1-2020\object\obj\Debug\@object.pdb

@@ -1,0 +1,33 @@
+﻿@model Employprojviewmodel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AboutEmploy</title>
+</head>
+<body>
+    <h1>Employ Details</h1>
+    <table border="1">
+        <tr>
+
+            <td>      ID              </td>
+            <td>      Name            </td>
+            <td>      Email           </td>
+            <td>      Dept            </td>
+            <td>      ProjectName     </td>
+        </tr>
+        <tr>
+            <td>@Model.employ.Id</td>
+            <td>@Model.employ.Name</td>
+            <td>@Model.employ.Email</td>
+            <td>@Model.employ.dept</td>
+            <td>@Model.projectname</td>
+        </tr>
+    </table>
+</body>
+</html>

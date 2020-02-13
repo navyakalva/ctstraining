@@ -1,0 +1,154 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title> Bootstrap 6 Bordered Table</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="JavaScript.js"></script>
+    <style type="text/css">
+        .bs-example {
+            margin: 20px;
+        }
+
+        header, nav, main, aside, section, footer {
+            margin: 20px;
+            border: 1px white;
+            height: auto;
+        }
+
+        img {
+            border-radius: 50%;
+        }
+
+        header {
+            border-radius: 10px;
+            width: auto;
+            background-color: skyblue;
+        }
+
+            header h1 {
+                color: white;
+                padding-left: 20px;
+                padding-top: 10px;
+            }
+
+        nav {
+            border-radius: 5px;
+            width: auto;
+            height: 30px;
+            background-color: lightcoral;
+            text-align: center;
+            padding-top: 5px;
+        }
+
+        a {
+            color: white;
+            /* text-decoration:none; */
+            padding-left: 20px;
+        }
+
+        main {
+            width: 95%;
+            height: 450px;
+        }
+
+        aside {
+            border-radius: 5px;
+            width: 23%;
+            height: 400px;
+            background-color: cyan;
+            float: left;
+            padding-left: 10px;
+            font-size: 20px;
+        }
+
+        section {
+            border-radius: 5px;
+            width: 65%;
+            height: 400px;
+            background-color: white;
+            float: left;
+            padding: 5px;
+        }
+
+        footer {
+            background-color: cyan;
+            text-align: center;
+            height: 30px;
+            color: white;
+        }
+
+        p {
+            color: blue;
+        }
+
+        li {
+            color: black;
+        }
+    </style>
+</head>
+<body onload="loadItems()">
+    <header>
+        <a href="landingpage.html"><img src="images/Capture.PNG" height="200" width="200" alt="no image" /></a>
+        <h1>Gift Card</h1>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="placegift.html">Place GiftCard Order</a>
+        <a href="vieworder.html">View GiftCard Order</a>
+        <a href="contactus.html">Contact Us</a>
+    </nav>
+    <main>
+        <aside>
+
+
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="placegift.html">Place GiftCard Order</a></li>
+                <li><a href="vieworder.html">View GiftCard Order</a></li>
+                <li><a href="contactus.html">Contact Us</a></li>
+            </ul>
+
+
+        </aside>
+        <section style="background-color:lightpink">
+            <h1 style="text-decoration-color:red"><a href='placegift.html'>Add order</a></h1>
+            <button onclick="remove()" value="clear the table" style="background-color:lightgrey">Clear Table</button>
+
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+
+                        <th>Buyer Name</th>
+                        <th>Shipping Address</th>
+                        <th>City</th>
+                        <th>Amount</th>
+                        <th>Phone</th>
+                    </tr>
+                </thead>
+                <tbody id="prdData"></tbody>
+            </table>
+
+            <!--<table>
+                <thead>
+                    <tr>
+                        <th >Buyers Name</th>
+                        <th>Shipping Adress</th>
+                        <th>City</th>
+                        <th>Amount</th>
+                        <th>Phone</th>
+                    </tr>
+                </thead>
+                <tbody id="prdData"></tbody>
+            </table>-->
+        </section>
+    </main>
+
+</body>
+</html>

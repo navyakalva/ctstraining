@@ -1,0 +1,6 @@
+E:\Navya\2-1-2020\Project\obj\Debug\Project.csprojAssemblyReference.cache
+E:\Navya\2-1-2020\Project\bin\Debug\Project.exe.config
+E:\Navya\2-1-2020\Project\bin\Debug\Project.exe
+E:\Navya\2-1-2020\Project\bin\Debug\Project.pdb
+E:\Navya\2-1-2020\Project\obj\Debug\Project.exe
+E:\Navya\2-1-2020\Project\obj\Debug\Project.pdb

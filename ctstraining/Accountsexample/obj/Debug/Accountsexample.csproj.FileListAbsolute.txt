@@ -1,0 +1,6 @@
+E:\Navya\2-1-2020\Accountsexample\obj\Debug\Accountsexample.csprojAssemblyReference.cache
+E:\Navya\2-1-2020\Accountsexample\bin\Debug\Accountsexample.exe.config
+E:\Navya\2-1-2020\Accountsexample\bin\Debug\Accountsexample.exe
+E:\Navya\2-1-2020\Accountsexample\bin\Debug\Accountsexample.pdb
+E:\Navya\2-1-2020\Accountsexample\obj\Debug\Accountsexample.exe
+E:\Navya\2-1-2020\Accountsexample\obj\Debug\Accountsexample.pdb
